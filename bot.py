@@ -20,4 +20,5 @@ async def on_ready():
             print(f"🎧 Joined voice channel: {channel.name}")
 
 
-bot.run(os.getenv("MTQxNTQxMDExMDM2ODQ1MjY3OA.GrLcMn.5BRjq355aTep5kvQ8lyKhKYny5eZPiZOZXpxJA"))
+bot.run(os.getenv("bottokken"))
+
