@@ -19,4 +19,5 @@ async def on_ready():
             await channel.connect()
             print(f"🎧 Joined voice channel: {channel.name}")
 
-bot.run(os.getenv("DISCORD_TOKEN"))
+
+bot.run(os.getenv("MTQxNTQxMDExMDM2ODQ1MjY3OA.GrLcMn.5BRjq355aTep5kvQ8lyKhKYny5eZPiZOZXpxJA"))
